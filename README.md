@@ -160,31 +160,6 @@ Traditional Interactive Voice Response (IVR) systems are notorious for rigid dec
 +---------------------------------------------------------------------------------------------------------+
 ```
 
----
-
-## 🖼️ Screenshots
-
-Placeholder images for key application views. Replace image paths with your hosted or repository image URLs (`docs/screenshots/*.png`).
-
-| Application View | Image Placeholder | Key Capabilities Demonstrated |
-| :--- | :--- | :--- |
-| **Hero Section** | `![Hero Section](docs/screenshots/hero-section.png)` | 3D Voice Harmonic Sphere, sub-1.2s latency metrics, and interactive simulator CTAs |
-| **Live Voice Simulator** | `![Live Voice Simulator](docs/screenshots/live-voice-simulator.png)` | Real-time IVR studio console with acoustic sentiment radar, slot extraction & CRM execution |
-| **3D Analytics Globe** | `![3D Analytics Globe](docs/screenshots/3d-analytics-globe.png)` | Interactive 3D edge routing sphere with color-coded regional latency heat map overlay |
-
-### 1. Hero Section
-![Hero Section Placeholder](docs/screenshots/hero-section.png)
-*Hero landing interface featuring the 3D audio-reactive voice sphere, core latency benchmarks, and interactive simulator launch buttons.*
-
-### 2. Live Voice Simulator
-![Live Voice Simulator Placeholder](docs/screenshots/live-voice-simulator.png)
-*Real-time telephony simulation studio showcasing acoustic sentiment trajectory, slot extractions, multi-dialect accent selection, and automated CRM tool calls.*
-
-### 3. 3D Analytics Globe
-![3D Analytics Globe Placeholder](docs/screenshots/3d-analytics-globe.png)
-*3D global distributed edge network globe overlaid with a color-coded regional latency heat map (green `<200ms` to red `>255ms`) and real-time hub metrics.*
-
----
 
 ## ✨ Features & Capabilities
 
