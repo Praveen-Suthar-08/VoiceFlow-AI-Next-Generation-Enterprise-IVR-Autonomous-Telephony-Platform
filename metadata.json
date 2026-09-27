@@ -1,0 +1,6 @@
+{
+  "name": "VoiceFlow AI - Intelligent IVR & 3D Platform",
+  "description": "Next-generation Gemini AI-powered Interactive Voice Response platform with 3D immersive scroll experience, real-time voice simulator, visual flow builder, and contact center analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
